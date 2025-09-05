@@ -1,8 +1,12 @@
 # DissertationCode
 Code File Descriptions:
-    sentiment_analysis_optimization11new.ipynb: Contains the complete code for the multimodal model proposed in this study, as well as the code for decompressing the image compressed package.  
-    moondream.ipynb: Code for fine-tuning the moondream2 model to process multiple images at once.  
-    OnlyImage.ipynb: Code for classifying image emotions solely based on image content.  
+
+    sentiment_analysis_optimization11new.ipynb: Contains the complete code for the multimodal model proposed in this study, as well as the code for decompressing the image compressed package.
+    
+    moondream.ipynb: Code for fine-tuning the moondream2 model to process multiple images at once.
+    
+    OnlyImage.ipynb: Code for classifying image emotions solely based on image content.
+    
     OnlyText.ipynb: Code for classifying image emotions solely based on text content.
 
 
